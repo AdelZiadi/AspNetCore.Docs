@@ -1,4 +1,4 @@
----
+auth---
 title: Community OSS authentication options for ASP.NET Core
 author: rick-anderson
 description: Discover open-source authentication options for ASP.NET Core.
